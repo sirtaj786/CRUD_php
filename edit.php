@@ -75,7 +75,7 @@
  <input type="hidden" name="id" value="<?php echo $id; ?>" > <br>
 
  <label> NAME: </label>
- <input type="text" name="name" value="<?php echo $fname; ?>" > <br>
+ <input type="text" name="fname" value="<?php echo $fname; ?>" > <br>
 
  <label> EMAIL: </label>
  <input type="text" name="email" value="<?php echo $email; ?>" > <br>
